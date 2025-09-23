@@ -695,7 +695,7 @@ nav li:hover {
     -o-object-fit: cover;
     object-fit: cover;
     height: 650px;
-    padding: 100px 0;
+    padding: 10px 0;
 }
 
 .vision h2 {
