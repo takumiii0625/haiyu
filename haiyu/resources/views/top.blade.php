@@ -942,7 +942,7 @@
                         <p>
                             <strong>【ご家庭】</strong><br>・ルンビニー・つながりの庭<br>
                             <strong>【飲食店】【回収場所】</strong><br>・
-                            事前に打ち合わせが必要です。<a href="#contact" class="ocean-link">お問い合わせ</a> からご連絡ください。
+                            事前に打ち合わせが必要です。<br><a href="#contact" class="ocean-link">お問い合わせ</a> からご連絡ください。
                         </p>
                     </div>
 
@@ -953,8 +953,8 @@
                         <p>集まった廃食油はリサイクル業者が引取り・換金し、地域の活動資金になります。</p>
 
                         <!-- レート表示 -->
-                        <li><span class="badge badge--home">ご家庭</span> <strong>1L＝5円</strong></li>
-                        <li><span class="badge badge--shop">飲食店、回収場所</span> <strong>1L＝10円</strong></li>
+                        ・ご家庭</span> <strong>1L＝5円</strong><br>
+                        ・飲食店、回収場所</span> <strong>1L＝10円</strong>
                     </div>
 
 
