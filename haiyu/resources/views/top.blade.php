@@ -457,6 +457,32 @@
             align-items: center;
             gap: 16px;
         }
+
+        /* コンテンツが重なる器を作る */
+        .hero .container {
+            position: relative;
+        }
+
+        /* バブルは常に背面＆クリックを通す */
+        #bubble-container {
+            position: absolute;
+            inset: 0;
+            z-index: 0;
+            /* 背面に */
+            pointer-events: none;
+            /* クリックを通す（これが重要） */
+        }
+
+        /* 他の要素（ボタン含む）は前面に */
+        .hero .container>*:not(#bubble-container) {
+            position: relative;
+            z-index: 1;
+        }
+
+        /* バブルが <canvas> の場合の保険 */
+        #bubble-container canvas {
+            pointer-events: none;
+        }
     </style>
     <header>
         <div class="container nav">
