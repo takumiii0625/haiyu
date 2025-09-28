@@ -7,6 +7,10 @@
     <title>金沢区 地域循環油プロジェクト｜廃食油1L=10円で地域へ循環</title>
     <meta name="description" content="10月1日スタート。家庭・飲食店の廃食油を1L=10円で循環資金化し、金沢区の医療・福祉と子どもたちの学びへ。参加方法・回収マップ・お問い合わせ。">
     <link href="https://unpkg.com/modern-css-reset/dist/reset.min.css" rel="stylesheet">
+    {{-- favicon（PNGをそのまま使用） --}}
+    <link rel="icon" type="image/png" href="{{ asset('logo.png') }}">
+    <link rel="apple-touch-icon" href="{{ asset('logo.png') }}"> {{-- iOS用 --}}
+
     <style>
         :root {
             --ocean: #0B7285;
