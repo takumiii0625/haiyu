@@ -503,7 +503,7 @@
                 <div class="meta">連携：金沢区自助連絡協議会／ 寄付先例：横浜ホスピス「うみとそらのおうち」 ほか</div>
                 <p style="margin-top:18px;">
                     <a class="btn btn--primary" target="_blank" rel="noopener"
-                        href="https://docs.google.com/forms/d/e/1FAIpQLSfOxXvF_Igwww0TPGLdxW8g0ZBXFhUZea5A84uowLe7geJYlw/viewform?usp=header">
+                        href="https://forms.gle/qqTUBBmjqKwtzvL29">
                         お問い合わせ（Googleフォーム）
                     </a>
                 </p>
@@ -1576,7 +1576,7 @@
                 <div class="cta-block">
                     <h3>ご相談・お申込み・出前授業のご依頼はこちら</h3>
                     <p class="contact-cta">
-                        <a class="btn btn--primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/e/1FAIpQLSfOxXvF_Igwww0TPGLdxW8g0ZBXFhUZea5A84uowLe7geJYlw/viewform?usp=header">Googleフォームを開く</a>
+                        <a class="btn btn--primary" target="_blank" rel="noopener" href="https://forms.gle/qqTUBBmjqKwtzvL29">Googleフォームを開く</a>
                         <span>※ 別タブで開きます。確認メールが自動送信されます。</span>
                     </p>
                 </div>
