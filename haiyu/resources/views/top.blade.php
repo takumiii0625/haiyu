@@ -526,7 +526,7 @@
                 <p class="hero__eyebrow">廃食油を捨てずに、地域の力へ</p>
                 <h1>金沢区 地域循環油プロジェクト</h1>
                 <p class="hero__sub">家庭・飲食店の廃食油を、医療・福祉と子どもたちの学びへつなぐ。</p>
-                <div class="meta">連携：金沢区自助連絡協議会／ 寄付先例：横浜ホスピス「うみとそらのおうち」 ほか</div>
+                <div class="meta">連携：金沢区自助連絡協議会<br> 寄付先例：横浜ホスピス「うみとそらのおうち」、金沢区ママ、金沢区自助連絡協議会ほか</div>
                 <p style="margin-top:18px;">
                     <a class="btn btn--primary" target="_blank" rel="noopener"
                         href="https://forms.gle/qqTUBBmjqKwtzvL29">
@@ -840,7 +840,7 @@
                     </div>
                     <div class="card">
                         <h3>Circulate</h3>
-                        <p>出前授業で“循環者”を育成。子ども主体で集め、使い道も自分たちで決める。</p>
+                        <p>出前授業で“循環者”を育成。子ども主体で集め、子どもたちが地域と大人を育てる。</p>
                     </div>
                     <div class="card">
                         <h3>Community</h3>
@@ -976,7 +976,7 @@
                     <!-- 2. 換金 -->
                     <div class="card">
                         <h3 class="step">換金</h3>
-                        <p>集まった廃食油はリサイクル業者が引取り・換金し、地域の活動資金になります。</p>
+                        <p>集まった廃食油は弊社が回収・換金し、地域の活動資金になります。</p>
 
                         <!-- レート表示 -->
                         ・ご家庭</span> <strong>1L＝5円</strong><br>
@@ -1115,7 +1115,7 @@
                     </div>
                     <div class="card">
                         <h3>自治会・管理組合</h3>
-                        <p>拠点回収の設置ガイドやポスター素材をご提供。</p>
+                        <p>拠点回収の設置ガイドをご提供。</p>
                     </div>
                 </div>
             </div>
