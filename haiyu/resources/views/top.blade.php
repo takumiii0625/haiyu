@@ -1374,7 +1374,43 @@
             </div>
         </section>
 
+        <!-- 寄付 -->
+        <section id="map">
+            <div class="container">
+                <h2>飲食店様からの寄付</h2>
 
+                <div class="card map-card">
+                    <!-- 上：場所情報＋写真 -->
+                    <div class="">
+                        <div class="place-info">
+
+                            <p class="place-name">金沢区自助連絡協議会への寄付をしていただいた飲食店</p>
+
+                            <ul class="place-notes">
+                                ①全助様　酒処 全助のご予約 - 金沢文庫/居酒屋 | 食べログ<br>
+                                ②手羽先番長金沢文庫店　手羽先番長｜店舗紹介<br>
+                                ③ほっかほっか弁当金沢文庫店ほっかほっか亭 金沢区 - Bing 地図<br>
+                                ④そば処どん　そば処居酒屋どん 金沢文庫店【公式】<br>
+                                ⑤ゆらい処まんちゅう　ゆらい処 まんちゅうのご予約 - 金沢文庫/居酒屋 | 食べログ<br>
+                                ⑥ダクアウト　スポーツ酒場　DUGOUT(@sports.dugout) • Instagram写真と動画<br>
+                            </ul>
+                            <p class="place-name">横浜ホスピスうみとそらのおうちへの寄付をしていただいた飲食店</p>
+                            <ul class="place-notes">
+                                ①サンドフィッシュ食堂　荒川屋ダイニングバ－サンドフィッシュ （Sandfish） - 金沢八景/ダイニングバー | 食べログ
+                            </ul>
+
+
+
+
+                        </div>
+
+
+                    </div>
+
+
+                </div>
+            </div>
+        </section>
         <!-- FAQ -->
         <style>
             /* テーマ色（お好みで） */
