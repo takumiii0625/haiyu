@@ -1387,16 +1387,16 @@
                             <p class="place-name">金沢区自助連絡協議会への寄付をしていただいた飲食店</p>
 
                             <ul class="place-notes">
-                                ①全助様　酒処 全助のご予約 - 金沢文庫/居酒屋 | 食べログ<br>
-                                ②手羽先番長金沢文庫店　手羽先番長｜店舗紹介<br>
-                                ③ほっかほっか弁当金沢文庫店ほっかほっか亭 金沢区 - Bing 地図<br>
-                                ④そば処どん　そば処居酒屋どん 金沢文庫店【公式】<br>
-                                ⑤ゆらい処まんちゅう　ゆらい処 まんちゅうのご予約 - 金沢文庫/居酒屋 | 食べログ<br>
-                                ⑥ダクアウト　スポーツ酒場　DUGOUT(@sports.dugout) • Instagram写真と動画<br>
+                                ①全助様　<a href="https://tabelog.com/kanagawa/A1401/A140310/14092302/?msockid=3527056973ce697301c0167e7224686b">酒処全助のご予約 - 金沢文庫/居酒屋 | 食べログ</a><br>
+                                ②手羽先番長金沢文庫店　<a href="http://www.tebaban.com/tenpo.html">手羽先番長｜店舗紹介</a><br>
+                                ③ほっかほっか弁当金沢文庫店　<a href="https://www.bing.com/maps?&q=ほっかほっか亭%20金沢区&filters=segment%3A%22local%22&cp=35.514328~139.618729&lvl=10">ほっかほっか亭 金沢区 - Bing 地図</a><br>
+                                ④そば処どん　<a href="https://don-kanazawabunko.owst.jp/">そば処居酒屋どん 金沢文庫店【公式】</a><br>
+                                ⑤ゆらい処まんちゅう　<a href="https://tabelog.com/kanagawa/A1401/A140310/14100692/?msockid=3527056973ce697301c0167e7224686b">ゆらい処 まんちゅうのご予約 - 金沢文庫/居酒屋 | 食べログ</a><br>
+                                ⑥ダクアウト　<a href="https://www.instagram.com/sports.dugout/">スポーツ酒場　DUGOUT(@sports.dugout) • Instagram写真と動画</a><br>
                             </ul>
                             <p class="place-name">横浜ホスピスうみとそらのおうちへの寄付をしていただいた飲食店</p>
                             <ul class="place-notes">
-                                ①サンドフィッシュ食堂　荒川屋ダイニングバ－サンドフィッシュ （Sandfish） - 金沢八景/ダイニングバー | 食べログ
+                                ①サンドフィッシュ食堂　<a href="https://tabelog.com/kanagawa/A1401/A140310/14009790/?msockid=3527056973ce697301c0167e7224686b">荒川屋ダイニングバ－サンドフィッシュ （Sandfish） - 金沢八景/ダイニングバー | 食べログ</a>
                             </ul>
 
 
