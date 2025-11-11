@@ -1394,7 +1394,7 @@
                                 ⑤ゆらい処まんちゅう　<a href="https://tabelog.com/kanagawa/A1401/A140310/14100692/?msockid=3527056973ce697301c0167e7224686b">ゆらい処 まんちゅうのご予約 - 金沢文庫/居酒屋 | 食べログ</a><br>
                                 ⑥ダクアウト　<a href="https://www.instagram.com/sports.dugout/">スポーツ酒場　DUGOUT(@sports.dugout) • Instagram写真と動画</a><br>
                             </ul>
-                            <p class="place-name">横浜ホスピスうみとそらのおうちへの寄付をしていただいた飲食店</p>
+                            <p class="place-name">横浜ホスピスうみとそらのおうちへの寄付をしていただいた飲食店様</p>
                             <ul class="place-notes">
                                 ①サンドフィッシュ食堂　<a href="https://tabelog.com/kanagawa/A1401/A140310/14009790/?msockid=3527056973ce697301c0167e7224686b">荒川屋ダイニングバ－サンドフィッシュ （Sandfish） - 金沢八景/ダイニングバー | 食べログ</a>
                             </ul>
