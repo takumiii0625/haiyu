@@ -1364,12 +1364,54 @@
 
                         <figure class="place-photo">
                             <!-- 画像パスは実ファイルに差し替えてください -->
-                            <img src="image/map.png" alt="ルンビニー・つながりの庭の入口脇に設置された青い回収ボックス">
+                            <img src="image/spot1.png" alt="ルンビニー・つながりの庭の入口脇に設置された青い回収ボックス">
                             <figcaption>※入口脇の青い回収ボックスにお入れください。</figcaption>
                         </figure>
                     </div>
+                </div>
+                <div class="card map-card">
+                    <!-- 上：場所情報＋写真 -->
+                    <div class="place-block">
+                        <div class="place-info">
+
+                            <p class="place-name">イエローハット 金沢文庫店</p>
+                            <p class="place-addr">住所：横浜市金沢区釜利谷東4-1-5</p>
+
+                            <ul class="place-notes">
+
+                            </ul>
 
 
+                        </div>
+
+                        <figure class="place-photo">
+                            <!-- 画像パスは実ファイルに差し替えてください -->
+                            <img src="image/spot2.png" alt="イエローハット 金沢文庫店">
+                            <figcaption></figcaption>
+                        </figure>
+                    </div>
+                </div>
+                <div class="card map-card">
+                    <!-- 上：場所情報＋写真 -->
+                    <div class="place-block">
+                        <div class="place-info">
+
+                            <p class="place-name">ウエノクリーニング各店舗</p>
+                            <p class="place-addr"></p>
+
+                            <ul class="place-notes">
+                                <li>本店・金沢文庫店・さくらい店・金沢八景店・能見台駅店の<strong>5店舗</strong>にて設置</li>
+                            </ul>
+
+
+                        </div>
+
+                        <figure class="place-photo">
+                            <!-- 画像パスは実ファイルに差し替えてください -->
+                            <img src="image/spot3.png" alt="ウエノクリーニング各店舗">
+                            <figcaption></figcaption>
+                        </figure>
+                    </div>
                 </div>
             </div>
         </section>
@@ -1377,7 +1419,7 @@
         <!-- 寄付 -->
         <section id="map">
             <div class="container">
-                <h2>飲食店様からの寄付</h2>
+                <h2>ご協力店舗様</h2>
 
                 <div class="card map-card">
                     <!-- 上：場所情報＋写真 -->
@@ -1387,21 +1429,21 @@
                             <p class="place-name">金沢区自助連絡協議会への寄付をしていただいた飲食店様</p>
 
                             <ul class="place-notes">
-                                ①全助　<a href="https://tabelog.com/kanagawa/A1401/A140310/14092302/?msockid=3527056973ce697301c0167e7224686b" target="_blank"
+                                ①酒処 全助　<a href="https://tabelog.com/kanagawa/A1401/A140310/14092302/?msockid=3527056973ce697301c0167e7224686b" target="_blank"
                                     rel="noopener noreferrer">酒処全助のご予約 - 金沢文庫/居酒屋 | 食べログ</a><br>
-                                ②手羽先番長金沢文庫店　<a href="http://www.tebaban.com/tenpo.html">手羽先番長｜店舗紹介</a><br>
-                                ③ほっかほっか弁当金沢文庫店　<a href="https://www.bing.com/maps?&q=ほっかほっか亭%20金沢区&filters=segment%3A%22local%22&cp=35.514328~139.618729&lvl=10" target="_blank"
+                                ②手羽先番長 金沢文庫駅前店　<a href="http://www.tebaban.com/tenpo.html">手羽先番長｜店舗紹介</a><br>
+                                ③ほっかほっか弁当 金沢文庫店　<a href="https://www.bing.com/maps?&q=ほっかほっか亭%20金沢区&filters=segment%3A%22local%22&cp=35.514328~139.618729&lvl=10" target="_blank"
                                     rel="noopener noreferrer">ほっかほっか亭 金沢区 - Bing 地図</a><br>
-                                ④そば処どん　<a href="https://don-kanazawabunko.owst.jp/" target="_blank"
+                                ④そば処居酒屋どん 金沢文庫店　<a href="https://don-kanazawabunko.owst.jp/" target="_blank"
                                     rel="noopener noreferrer">そば処居酒屋どん 金沢文庫店【公式】</a><br>
-                                ⑤ゆらい処まんちゅう　<a href="https://tabelog.com/kanagawa/A1401/A140310/14100692/?msockid=3527056973ce697301c0167e7224686b" target="_blank"
+                                ⑤ゆらい処 まんちゅう　<a href="https://tabelog.com/kanagawa/A1401/A140310/14100692/?msockid=3527056973ce697301c0167e7224686b" target="_blank"
                                     rel="noopener noreferrer">ゆらい処 まんちゅうのご予約 - 金沢文庫/居酒屋 | 食べログ</a><br>
-                                ⑥ダクアウト　<a href="https://www.instagram.com/sports.dugout/" target="_blank"
+                                ⑥スポーツ酒場 DUGOUT　<a href="https://www.instagram.com/sports.dugout/" target="_blank"
                                     rel="noopener noreferrer">スポーツ酒場　DUGOUT(@sports.dugout) • Instagram写真と動画</a><br>
                             </ul>
                             <p class="place-name">横浜ホスピスうみとそらのおうちへの寄付をしていただいた飲食店様</p>
                             <ul class="place-notes">
-                                ①サンドフィッシュ食堂　<a href="https://tabelog.com/kanagawa/A1401/A140310/14009790/?msockid=3527056973ce697301c0167e7224686b" target="_blank"
+                                ①荒川屋ダイニングバー Sandfish食堂　<a href="https://tabelog.com/kanagawa/A1401/A140310/14009790/?msockid=3527056973ce697301c0167e7224686b" target="_blank"
                                     rel="noopener noreferrer">荒川屋ダイニングバ－サンドフィッシュ （Sandfish） - 金沢八景/ダイニングバー | 食べログ</a>
                             </ul>
                             <figure class="place-photo">
