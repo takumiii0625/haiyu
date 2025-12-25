@@ -1121,6 +1121,21 @@
             </div>
         </section>
 
+        <!-- 新着情報 -->
+        <section id="cases">
+            <div class="container">
+                <h2>新着情報</h2>
+                <div class="grid grid--3">
+                    <div class="card case">
+                        <figure class="case-thumb">
+                            <img src="image/mokuroku.jpg" alt="目録贈呈" loading="lazy" width="1280" height="720">
+                        </figure>
+                        <h3>2025年12月4日</h3>
+                        <p>金沢区自助連絡協議会（自助カナ）総会にて金沢区地域循環油プロジェクトを紹介させていただき、金沢区自助連絡協議会に目録を贈呈しました。</p>
+                    </div>
+                </div>
+            </div>
+        </section>
         <!-- 実績 -->
         <style>
             /* グリッド（PC=3列、SP=1列） */
