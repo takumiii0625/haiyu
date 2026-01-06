@@ -1138,7 +1138,7 @@
                             <img src="image/radio.png" alt="鶴見小の見学と提案の活動" loading="lazy" width="1280" height="720">
                         </figure>
                         <h3>Circular Economy + RADIO</h3>
-                        <p>第36回のゲストとしてCircular Economyに出演しました。</p>
+                        <p>第36回のゲストとして Circular Economyに出演しました。</p>
                         <a href="https://www.youtube.com/watch?v=2dJnZPDhYwE" target="_blank" rel="noopener noreferrer">番組を聴く</a>
                         </p>
                     </div>
