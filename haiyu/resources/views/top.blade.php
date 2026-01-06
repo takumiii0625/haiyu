@@ -1133,6 +1133,15 @@
                         <h3>2025年12月4日</h3>
                         <p>金沢区自助連絡協議会（自助カナ）総会にて金沢区地域循環油プロジェクトを紹介させていただき、金沢区自助連絡協議会に目録を贈呈しました。</p>
                     </div>
+                    <div class="card case">
+                        <figure class="case-thumb">
+                            <img src="image/radio.png" alt="鶴見小の見学と提案の活動" loading="lazy" width="1280" height="720">
+                        </figure>
+                        <h3>Circular Economy + RADIO</h3>
+                        <p>第36回のゲストとしてCircular Economyに出演しました。</p>
+                        <a href="https://www.youtube.com/watch?v=2dJnZPDhYwE" target="_blank" rel="noopener noreferrer">番組を聴く</a>
+                        </p>
+                    </div>
                 </div>
             </div>
         </section>
