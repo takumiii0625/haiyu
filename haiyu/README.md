@@ -59,3 +59,23 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+# lolipopサーバーに直接アクセス
+コマンド：ssh -p 2222 stripper.jp-chiiki-junkanyu@ssh.lolipop.jp
+PW：L0cOXU3RLSkv2BiJFbCtbnUPtlKDlYO3
+
+  ロリポップサーバー
+  │                                                                                              
+  ├── /homepage/                ← ホームページ（本体）      
+  │     │
+  │     └── $ git pull origin main
+  │
+  └── /laravel/haiyu/         ← 金沢区LP
+        │
+        └── $ git pull origin main
+
+# lolipopのサイトにアクセス
+  URL：https://user.lolipop.jp/?mode=login
+  独自ドメイン：chiiki-junkanyu.jp
+  パスワード：kyousou5530
