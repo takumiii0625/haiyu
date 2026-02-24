@@ -1128,6 +1128,14 @@
                 <div class="grid grid--3">
                     <div class="card case">
                         <figure class="case-thumb">
+                            <img src="image/kacho-fugetsu-volunteer-dayori.jpg" alt="花鳥風月ボランティア便り" loading="lazy" width="1280" height="720">
+                        </figure>
+                        <h3>2026年2月</h3>
+                        <p>横浜市立六浦小学校むつうら花鳥風月ボランティアにて、廃食油常設回収がスタートしました。</p>
+                        <a href="{{ asset('pdf/kacho-fugetsu-volunteer-dayori.pdf') }}" target="_blank" rel="noopener noreferrer">詳細を確認する</a>
+                    </div>
+                    <div class="card case">
+                        <figure class="case-thumb">
                             <img src="image/mokuroku.jpg" alt="目録贈呈" loading="lazy" width="1280" height="720">
                         </figure>
                         <h3>2025年12月4日</h3>
