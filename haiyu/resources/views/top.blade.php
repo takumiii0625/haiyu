@@ -1127,6 +1127,20 @@
                 <h2>新着情報</h2>
                 <div class="grid grid--3">
                     <div class="card case">
+                        <h3>2026年3月</h3>
+                        <p>弊社が参画団体として全国バイオディーゼル燃料利用推進協議会　会員になりました。</p>
+                        <a href="{{ asset('pdf/bdf_kaiinmeibo20260130.pdf') }}" target="_blank" rel="noopener noreferrer">詳細を確認する</a>
+                    </div>
+                    <div class="card case">
+                        <h3>2026年3月</h3>
+                        <p>弊社が一般社団法人ロングライフラボ賛助会員になりました。</p>
+                    </div>
+                    <div class="card case">
+                        <h3>2026年3月</h3>
+                        <p>神奈川県つながりネットワークに登録されました。</p>
+                        <a href="https://www.pref.kanagawa.jp/documents/118706/0216meibo.pdf" target="_blank" rel="noopener noreferrer">詳細を確認する</a>
+                    </div>
+                    <div class="card case">
                         <figure class="case-thumb">
                             <img src="image/kacho-fugetsu-volunteer-dayori.jpg" alt="花鳥風月ボランティア便り" loading="lazy" width="1280" height="720">
                         </figure>
@@ -1165,6 +1179,99 @@
                 </div>
             </div>
         </section>
+
+        <section id="advisor">
+            <div class="container">
+                <h2>教育アドバイザー</h2>
+
+                <div class="advisor">
+                <div class="advisor__media">
+                    <img src="{{ asset('image/ikeda.jpg') }}" alt="教育アドバイザー 池田 孝">
+                </div>
+
+                <div class="advisor__body advisor-text">
+                    <h3>池田 孝 氏</h3>
+                    @php
+                    $bio = "元横浜市小学校副校長、元横浜市教育委員会指導主事（キャリア教育、総合的な学習の時間を担当）、\n現在、町田市立小学校時間講師、株式会社SolarCrewコミュニティマネージャー、一般社団法人横浜すぱいす理事をしつつ、\n「いけもんキッチン」にてキッチンカー✖教育で47都道府県子どもたちの「やってみたい」実現プロジェクトを実践中。";
+                    @endphp
+
+                    <p class="advisor-bio mb-0">{!! nl2br(e($bio)) !!}</p>
+                </div>
+                </div>
+            </div>
+        </section>
+
+        <style>
+        /* top.blade.php 用：アドバイザー */
+        #advisor .advisor{
+            display: grid;
+            grid-template-columns: 320px 1fr;
+            gap: 24px;
+            align-items: start;
+        }
+        #advisor .advisor__media img{
+            width: 100%;
+            height: auto;
+            border-radius: 16px;
+            box-shadow: 0 10px 24px rgba(0,0,0,.08);
+            display: block;
+            object-fit: cover;
+        }
+        #advisor .advisor__body h3{
+            margin: 0 0 10px;
+        }
+
+        @media (max-width: 768px){
+            #advisor .advisor{
+            grid-template-columns: 1fr;
+            }
+        }
+
+        #advisor .advisor-text{
+        max-width: 72ch;
+        }
+
+        #advisor .advisor-text h3{
+        font-size: 32px;
+        line-height: 1.2;
+        margin: 0 0 14px;
+        letter-spacing: .02em;
+        }
+
+        #advisor .advisor-text p{
+        font-size: 17px;
+        line-height: 2.0;
+        letter-spacing: .02em;
+        margin: 0;
+        color: #2b2b2b;
+        }
+
+        /* スマホ */
+        @media (max-width: 768px){
+        #advisor .advisor-text{
+            max-width: none;
+        }
+        #advisor .advisor-text h3{
+            font-size: 24px;
+        }
+        #advisor .advisor-text p{
+            font-size: 16px;
+            line-height: 1.9;
+        }
+        }
+        #adviser .advisor-bio,
+        #advisor .advisor-bio{
+        line-height: 2.0;
+        letter-spacing: .02em;
+        }
+
+        #advisor .advisor-bio br{
+        display: block;
+        margin-top: 10px; /* 行間じゃなく段落間の空き */
+        content: "";
+        }
+        </style>
+
         <!-- 実績 -->
         <style>
             /* グリッド（PC=3列、SP=1列） */
