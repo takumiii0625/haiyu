@@ -1128,6 +1128,11 @@
                 <div class="grid grid--3">
                     <div class="card case">
                         <h3>2026年3月</h3>
+                        <p>今年度、横浜市エコスクール（YES）講座として、横浜市立小学校での出前授業を実施いたします。</p>
+                        <a href="https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/ondanka/ra/yes/yes.html" target="_blank" rel="noopener noreferrer">詳細を確認する</a>
+                    </div>
+                    <div class="card case">
+                        <h3>2026年3月</h3>
                         <p>弊社が参画団体として全国バイオディーゼル燃料利用推進協議会　会員になりました。</p>
                         <a href="{{ asset('pdf/bdf_kaiinmeibo20260130.pdf') }}" target="_blank" rel="noopener noreferrer">詳細を確認する</a>
                     </div>
