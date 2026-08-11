@@ -1584,6 +1584,28 @@
                         </figure>
                     </div>
                 </div>
+                <div class="card map-card">
+                    <!-- 上：場所情報＋写真 -->
+                    <div class="place-block">
+                        <div class="place-info">
+
+                            <p class="place-name">株式会社金沢臨海サービス</p>
+                            <p class="place-addr">住所：横浜市金沢区柴町391-7</p>
+
+                            <ul class="place-notes">
+                                <li>地域貢献として、<strong>会社敷地内に回収ボックスを設置</strong>してくださいました。</li>
+                                <li><a href="https://krsv.jp/" class="ocean-link" target="_blank" rel="noopener noreferrer">株式会社金沢臨海サービス 公式サイト</a></li>
+                            </ul>
+
+
+                        </div>
+
+                        <figure class="place-photo">
+                            <!-- 画像パスは実ファイルに差し替えてください -->
+                            <img src="image/spot4.jpg" alt="株式会社金沢臨海サービスの敷地内に設置された青い廃食油回収ボックス">
+                        </figure>
+                    </div>
+                </div>
             </div>
         </section>
 
