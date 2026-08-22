@@ -1142,6 +1142,14 @@
                 <h2>新着情報</h2>
                 <div class="grid grid--3">
                     <div class="card case">
+                        <figure class="case-thumb">
+                            <img src="image/townnews20260611.jpg" alt="タウンニュース金沢区・磯子区版トップ掲載" loading="lazy" width="1024" height="1509">
+                        </figure>
+                        <h3>2026年6月</h3>
+                        <p>6月2日に行われました開港祭での取組がタウンニュース（金沢区・磯子区版）にてトップ掲載頂きました。</p>
+                        <a href="{{ asset('image/townnews20260611.jpg') }}" target="_blank" rel="noopener noreferrer">詳細を確認する</a>
+                    </div>
+                    <div class="card case">
                         <h3>2026年3月</h3>
                         <p>今年度、横浜市エコスクール（YES）講座として、横浜市立小学校での出前授業を実施いたします。</p>
                         <a href="https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/ondanka/ra/yes/yes.html" target="_blank" rel="noopener noreferrer">詳細を確認する</a>
