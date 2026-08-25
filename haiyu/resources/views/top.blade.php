@@ -1143,6 +1143,13 @@
                 <div class="grid grid--3">
                     <div class="card case">
                         <figure class="case-thumb">
+                            <img src="image/takumi.jpg" alt="親善大使 鮨屋のまさる弟子のたくみ" loading="lazy" width="1567" height="1045">
+                        </figure>
+                        <h3>2026年8月</h3>
+                        <p>地域循環油プロジェクト親善大使に、鮨屋のまさる弟子のたくみさんが就任頂きました。</p>
+                    </div>
+                    <div class="card case">
+                        <figure class="case-thumb">
                             <img src="image/townnews20260611.jpg" alt="タウンニュース金沢区・磯子区版トップ掲載" loading="lazy" width="1024" height="1509">
                         </figure>
                         <h3>2026年6月</h3>
@@ -1224,6 +1231,18 @@
                     @endphp
 
                     <p class="advisor-bio mb-0">{!! nl2br(e($bio)) !!}</p>
+                </div>
+                </div>
+
+                <h2 style="margin-top: 48px;">親善大使</h2>
+
+                <div class="advisor">
+                <div class="advisor__media">
+                    <img src="{{ asset('image/takumi.jpg') }}" alt="親善大使 鮨屋のまさる弟子のたくみ">
+                </div>
+
+                <div class="advisor__body advisor-text">
+                    <h3>鮨屋のまさる弟子のたくみ</h3>
                 </div>
                 </div>
             </div>
