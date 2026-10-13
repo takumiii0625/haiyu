@@ -1143,6 +1143,15 @@
                 <div class="grid grid--3">
                     <div class="card case">
                         <figure class="case-thumb">
+                            <img src="image/forum20261115.jpg" alt="地域循環フォーラム2026 チラシ" loading="lazy" width="1024" height="1449">
+                        </figure>
+                        <h3>2026年10月</h3>
+                        <p>11月15日（日）13:00〜14:30、金沢公会堂にて「地域循環フォーラム2026 〜いのちを支える地域の未来〜」を開催いたします。参加費無料（定員500名・事前申込制）。</p>
+                        <a href="{{ asset('pdf/forum20261115.pdf') }}" target="_blank" rel="noopener noreferrer">詳細を確認する</a>
+                        <a href="https://docs.google.com/forms/d/1AmB-RweRx4iOxf7uxmj0OLlCLN3DrFm8YBwK6YG2PyA/viewform" target="_blank" rel="noopener noreferrer">お申込みはこちら</a>
+                    </div>
+                    <div class="card case">
+                        <figure class="case-thumb">
                             <img src="image/takumi.jpg" alt="親善大使 鮨屋のまさる弟子のたくみ" loading="lazy" width="1567" height="1045">
                         </figure>
                         <h3>2026年8月</h3>
