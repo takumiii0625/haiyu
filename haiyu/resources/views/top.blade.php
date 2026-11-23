@@ -1142,6 +1142,11 @@
                 <h2>新着情報</h2>
                 <div class="grid grid--3">
                     <div class="card case">
+                        <h3>2026年11月</h3>
+                        <p>11月21日（土）、よこはまＦＣ様が地域循環油プロジェクトに参画して頂きました。</p>
+                        <a href="https://yokohamafc.com/2026/10/13/chiiki-junkanyu/" target="_blank" rel="noopener noreferrer">詳細を確認する</a>
+                    </div>
+                    <div class="card case">
                         <figure class="case-thumb">
                             <img src="image/forum20261115.jpg" alt="地域循環フォーラム2026 チラシ" loading="lazy" width="1024" height="1449">
                         </figure>
